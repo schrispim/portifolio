@@ -1,0 +1,54 @@
+body{
+background-color: gray;
+place-items:center;
+display:flex;
+justify-content:center ;
+height: 100vh;
+}
+
+
+
+
+.card{
+width: 500px;;
+text-align:center ;
+background-color: #fff;
+box-shadow: 0 4px 8px 0 #000;
+margin: auto;
+
+}
+
+h1{
+font: size 35px;;
+}
+
+p{
+color: rgba(95, 93, 93, 0.659);
+font-size: 24px;;
+
+}
+button{
+background-color: #10050577;
+border: none;
+padding: 8px;;
+font-size: 15px;;
+margin-top: 15px;
+width: 100%;
+}
+
+button:hover{
+opacity: 0,5;
+}
+
+
+button a{
+color:rgb(245, 235, 235);
+font-size: 25px;
+text-decoration: none;
+}
+
+a{
+color: #000;
+font-size: 30px
+}
+
